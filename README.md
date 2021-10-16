@@ -1,4 +1,13 @@
-### Hi there 👋
+### <img src = "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x"> There! 
+
+Thanks for visiting my GitHub page! 
+
+
+My name is David. I am a recent data analytics student. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, Tableau. Looking forward to collaborating with Githubs members on exciting and intriguing datasets.
+
+In my spare time, I like to read, exercise, and play video games.
+
+You can find me on <img src = "linkedin/in/davidlamcanada" width="150x">
 
 <!--
 **davidlamcanada/davidlamcanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
