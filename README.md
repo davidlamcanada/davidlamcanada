@@ -4,7 +4,7 @@ Thanks for visiting my GitHub page! :adult:
 
 
 
-My name is David. I am a recent data analytics student :man_student::canada:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, Tableau. 
+My name is David. I am a recent data analytics student :man_student::canada:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, and Tableau. 
 
 
 In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
