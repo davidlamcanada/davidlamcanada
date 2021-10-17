@@ -1,13 +1,21 @@
 ### <img src = "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x"> There! 
 
-Thanks for visiting my GitHub page! 
+Thanks for visiting my GitHub page! :adult:
 
 
-My name is David. I am a recent data analytics student. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, Tableau. Looking forward to collaborating with Githubs members on exciting and intriguing datasets.
+My name is David. I am a recent data analytics student :man_student:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, Tableau. 
 
-In my spare time, I like to read, exercise, and play video games.
+In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
 
-You can find me on <img src = "linkedin/in/davidlamcanada" width="150x">
+Looking forward to collaborating with Github members on exciting and intriguing datasets.
+<!--
+
+
+Source:
+Gif from https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif
+Emojis from https://github.com/ikatyang/emoji-cheat-sheet
+
+
 
 <!--
 **davidlamcanada/davidlamcanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
