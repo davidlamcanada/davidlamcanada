@@ -1,6 +1,6 @@
 ### <img src = "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x"> There! 
 
-<br/>Thanks for visiting my GitHub page! :adult:<br/>
+Thanks for visiting my GitHub page! :adult:
 
 My name is David. I am a recent data analytics student :man_student::canada:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, and Tableau.<br/>
 
