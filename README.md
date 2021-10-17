@@ -1,23 +1,18 @@
 ### <img src = "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x"> There! 
 
-Thanks for visiting my GitHub page! :adult:
+<br/>Thanks for visiting my GitHub page! :adult:<br/>
 
-
-
-My name is David. I am a recent data analytics student :man_student::canada:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, and Tableau. 
-
+My name is David. I am a recent data analytics student :man_student::canada:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, and Tableau.<br/>
 
 In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
 
-
 Looking forward to collaborating with Github members on exciting and intriguing datasets.
-<!--
 
-
+<br/>
 Source:
-Gif from https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif
-Emojis from https://github.com/ikatyang/emoji-cheat-sheet
-
+<br/>Gif from https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif<br/>
+Emojis from https://github.com/ikatyang/emoji-cheat-sheet<br/>
+<!--
 
 
 <!--
