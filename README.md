@@ -6,12 +6,14 @@ My name is David. I am a recent data analytics student :man_student::canada:. I 
 
 In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
 
-I am looking forward to collaborating with Github members on intriguing datasets.
+I am looking forward to collaborating with Github members on intriguing datasets. 
+
+You can connected with me on [Linkedin](linkedin.com/in/davidlamcanada).
 
 <br/>
 Source:
-<br/>Gif from https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif<br/>
-Emojis from https://github.com/ikatyang/emoji-cheat-sheet<br/>
+
+[Gif](https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif), [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 <!--
 
 
