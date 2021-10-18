@@ -6,7 +6,7 @@ My name is David. I am a recent data analytics student :man_student::canada:. I 
 
 In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
 
-Looking forward to collaborating with Github members on exciting and intriguing datasets.
+Looking to collaborate with Github members on intriguing datasets.
 
 <br/>
 Source:
