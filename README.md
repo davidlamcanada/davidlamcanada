@@ -6,9 +6,9 @@ My name is David. I am a recent data analytics student :man_student::canada:. I 
 
 In my spare time, I like to read :books:, exercise :running:, and play video games :computer:.
 
-I am looking forward to collaborating with Github members on intriguing datasets. 
+I look forward to collaborating with members on intriguing projects.
 
-You can connected with me on [Linkedin](linkedin.com/in/davidlamcanada).
+You can connect with me on  [Linkedin](linkedin.com/in/davidlamcanada).
 
 <br/>
 Source:
