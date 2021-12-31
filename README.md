@@ -14,7 +14,7 @@
  <p> My name is David. I am a recent data analytics student :canada::man_student:. I am currently developing my skills in Python, SQL, R, Hadoop, PowerBI, and Tableau. </p>
  <p> In my spare time, I like to read :books:, exercise :running:, and play video games :computer:. </p>
  <p> I look forward to collaborating with members on intriguing projects. </p>
- <p> You can connect with me on <a href= https://www.linkedin.com/in/davidlamcanada> LinkedIn </a>. </p>
+ <p> You can connect with me on <a href= "https://www.linkedin.com/in/davidlamcanada"> LinkedIn </a>. </p>
 </body>
   
 </html>
