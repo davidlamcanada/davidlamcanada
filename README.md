@@ -1,29 +1,24 @@
-<!DOCTYPE html>
+# About Me Page
 
-<html>
-  
-<head>
-  
-</head>
-  
-<body>
- <h1> About Me Page </h1>
- <p> Hello There! </p>
- <img src= "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x" alt="Waving Gif"> 
- <p> Thanks for visiting my GitHub page! :adult: </p>
- <p> My name is David. I am a recent data analytics student :canada::man_student:. I am currently using The Odin Project and Scrimba to boost my web development knowledge.</p>
- <p> In my spare time, I like to read :books:, exercise :running:, and play video games :computer:. </p>
-  
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- <p> I look forward to collaborating with fellow GitHub members on intriguing projects. </p>
- <p> You can connect with me on <a href= "https://www.linkedin.com/in/davidlamcanada"> LinkedIn. </a> </p>
+## Hello There! 
+
+<img src= "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x" alt="Waving Gif"> 
+
  
- </body>
-  
-</html>
+### Thanks for visiting my GitHub page! [:adult:](https://github.com/ikatyang/emoji-cheat-sheet) 
 
-<a href="https://github.com/ikatyang/emoji-cheat-sheet"> Emojis Can Be Found Here </a>
+My name is David. I am a recent data analytics student [:canada:](https://github.com/ikatyang/emoji-cheat-sheet) [:man_student:](https://github.com/ikatyang/emoji-cheat-sheet). I am currently using The Odin Project and Scrimba to boost my web development knowledge.
+ 
+In my spare time, I like to read [:books:](https://github.com/ikatyang/emoji-cheat-sheet), exercise [:running:](https://github.com/ikatyang/emoji-cheat-sheet), and play video games [:computer:](https://github.com/ikatyang/emoji-cheat-sheet).
+
+I look forward to collaborating with fellow GitHub members on intriguing projects. 
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/davidlamcanada)
+
+ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 
