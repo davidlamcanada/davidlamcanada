@@ -15,7 +15,11 @@
  <p> In my spare time, I like to read :books:, exercise :running:, and play video games :computer:. </p>
  <p> I look forward to collaborating with fellow GitHub members on intriguing projects. </p>
  <p> You can connect with me on <a href= "https://www.linkedin.com/in/davidlamcanada"> LinkedIn. </a> </p>
-</body>
+
+ ![David Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&theme=vision-friendly-dark&show_icons=true)
+
+  
+ </body>
   
 </html>
 
