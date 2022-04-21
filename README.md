@@ -16,8 +16,7 @@
  <p> I look forward to collaborating with fellow GitHub members on intriguing projects. </p>
  <p> You can connect with me on <a href= "https://www.linkedin.com/in/davidlamcanada"> LinkedIn. </a> </p>
 
- ![David Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&theme=vision-friendly-dark&show_icons=true)
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  </body>
   
