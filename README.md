@@ -13,11 +13,12 @@
  <p> Thanks for visiting my GitHub page! :adult: </p>
  <p> My name is David. I am a recent data analytics student :canada::man_student:. I am currently using The Odin Project and Scrimba to boost my web development knowledge.</p>
  <p> In my spare time, I like to read :books:, exercise :running:, and play video games :computer:. </p>
+  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
  <p> I look forward to collaborating with fellow GitHub members on intriguing projects. </p>
  <p> You can connect with me on <a href= "https://www.linkedin.com/in/davidlamcanada"> LinkedIn. </a> </p>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlamcanada&hide=stars&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
  </body>
   
 </html>
