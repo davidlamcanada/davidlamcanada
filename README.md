@@ -2,7 +2,7 @@
 
 ## Hello There! 
 
-<img src= "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="150x" alt="Waving Gif"> 
+<img src= "https://media.giphy.com/media/UqGhQEXe4J4ghTTCEi/giphy.gif" width="100" alt="Waving Gif"> 
 
  
 ### Thanks for visiting my GitHub page! [:adult:](https://github.com/ikatyang/emoji-cheat-sheet) 
